@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckingIlayBot", "FuckingIlayBot\FuckingIlayBot.csproj", "{B8311959-7DAF-4020-95E5-7633BFF65BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckingDbIlay", "FuckingDbIlay\FuckingDbIlay.csproj", "{4D18CAD6-C0F3-4BD4-AD19-E6DD0C56F18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8311959-7DAF-4020-95E5-7633BFF65BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8311959-7DAF-4020-95E5-7633BFF65BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8311959-7DAF-4020-95E5-7633BFF65BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8311959-7DAF-4020-95E5-7633BFF65BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D18CAD6-C0F3-4BD4-AD19-E6DD0C56F18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D18CAD6-C0F3-4BD4-AD19-E6DD0C56F18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D18CAD6-C0F3-4BD4-AD19-E6DD0C56F18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D18CAD6-C0F3-4BD4-AD19-E6DD0C56F18C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AB8542-0DD4-497B-8996-1EC79E24FACE}
+	EndGlobalSection
+EndGlobal
