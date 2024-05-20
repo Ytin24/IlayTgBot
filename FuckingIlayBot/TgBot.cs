@@ -1,5 +1,5 @@
-﻿using FuckingDbIlay.Context;
-using FuckingDbIlay.Models;
+﻿using DbIlay.Context;
+using DbIlay.Models;
 using Microsoft.EntityFrameworkCore;
 using NLog;
 using System;
@@ -13,7 +13,7 @@ using Telegram.Bot.Exceptions;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.ReplyMarkups;
 
-namespace FuckingIlayBot {
+namespace IlayBot {
     public class TelegramBot : ITelegramBot {
         private NotesDbContext _db;
         private readonly ILogger _logger;

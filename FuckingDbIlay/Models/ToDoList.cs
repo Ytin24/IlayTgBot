@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FuckingDbIlay.Models;
+namespace DbIlay.Models;
 
 public partial class ToDoList
 {

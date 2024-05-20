@@ -1,12 +1,12 @@
 ﻿using Autofac;
 using Autofac.Builder;
-using FuckingDbIlay.Context;
+using DbIlay.Context;
 using NLog;
 using Telegram.Bot;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types.Enums;
 
-namespace FuckingIlayBot {
+namespace IlayBot {
     internal partial class Program {
         static async Task Main(string[] args) {
             var Container = RegisterDi();

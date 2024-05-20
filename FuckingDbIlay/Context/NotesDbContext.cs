@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using FuckingDbIlay.Models;
+using DbIlay.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace FuckingDbIlay.Context {
+namespace DbIlay.Context {
     public partial class NotesDbContext : DbContext {
         public NotesDbContext() { }
 
