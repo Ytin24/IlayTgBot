@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FuckingDbIlay\DbIlay.csproj" />
+    <ProjectReference Include="..\DbIlay\DbIlay.csproj" />
   </ItemGroup>
 
   <ItemGroup>
